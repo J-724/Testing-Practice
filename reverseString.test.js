@@ -1,4 +1,4 @@
-import reverseString from './reverseString';
+import reverseString from './functions/reverseString';
 
 describe('reverseString', () => {
     test('single word string', () => {
